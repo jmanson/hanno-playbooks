@@ -40,7 +40,7 @@ Some guidelines for our team on how to communicate Hanno's value.
 
 * [Marketing](hannops/marketing.md)
   There are many different types of work we can tackle - here's a guide to what we're best at.
-  * [Outbound Marketing](hannops/out-bound-marketing.md)
+  * [Outbound Marketing](hannops/outbound-marketing.md)
   * [Blogging](hannops/blogging.md)
   * [Social Media](hannops/social-media.md)
   * [Brand Voice & Tone](hannops/brand-voice-and-tone.md)
