@@ -1,6 +1,8 @@
 # Summary
 
-### HannOps Playbook
+## HannOps Playbook
+
+Our Playbook for making sure Hanno operates smoothly.
 
 * [Marketing](hannops/marketing.md)
 * [Mission & Governance](hannops/mission-and-governance.md)
@@ -9,15 +11,37 @@
 * [Internal](hannops/internal.md)
 * [Client Projects](hannops/client-projects.md)
 
-### Engineering Playbook
+## Engineering Playbook
 
-* [Our Services](engineering/our-services.md)
-* [Development Philosophy](engineering/development-philosophy.md)
-* [Tools & Workflows](engineering/tools-and-workflows.md)
+A Playbook for great engineering at Hanno
 
-### Remote Work Playbook
+### Our Services
 
-#### Best Practice
+  A closer look at the type of engineering projects we take on.
+  * [Web apps](engineering/web-apps.md)
+  * [Native mobile apps](engineering/native-mobile-apps.md)
+  * [Marketing websites](engineering/marketing-websites.md)
+  * [Chatbots](engineering/chatbots.md)
+
+### Development Philosophy
+
+  Here are the principles we use when building digital products.
+  * [Clients own the code](engineering/clients-own-the-code.md)
+  * [Adopt an API-driven approach](engineering/adopt-an-api-driven-approach.md)
+  * [Don't reinvent the wheel](engineering/dont-reinvent-the-wheel.md)
+
+### Tools & Workflows
+
+  Deep dives into some of the tools and techniques we use to build apps.
+  * [CSS](engineering/css.md)
+  * [Browser and device testing](engineering/browser-and-device-testing.md)
+  * [Static site generators](engineering/static-site-generators.md)
+  * [Our tech stack](engineering/our-tech-stack.md)
+
+
+## Remote Work Playbook
+
+### Best Practice
 
 We're starting to document our internal guidelines for doing remote work right.
 
@@ -25,7 +49,7 @@ We're starting to document our internal guidelines for doing remote work right.
   * [Using Slack](remote-work/using-slack.md)
   * [Equipement Recommendations](remote-work/equipement-recommendations.md)
 
-#### Culture Toolbox
+### Culture Toolbox
 
 And we're slowly documenting a toolbox of exercises that we use to improve team culture.
 
