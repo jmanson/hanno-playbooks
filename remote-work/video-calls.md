@@ -2,7 +2,7 @@
 # Video Calls
 
 _A fundamental part of remote work, but oh-so-easy to get wrong. Let's try to fix that..._
----
+
 
 As a totally remote team, we can be a little obsessive about making sure that our video calls are easy to follow and participate in. And participation on video calls is even more important for us as one person at Hanno is deaf.
 
@@ -27,7 +27,7 @@ A few tips we’d recommend on all group calls can improve the conversation a lo
 
 Let's take a look at an example of a bad call at Hanno: you'll see that many people have bad camera quality, poor lighting and awkward off-center camera angles. Some don't even have microphones!
 
-
+![badcall](https://www.datocms-assets.com/1058/1495732149-badcall.png?w=1000&fit=max)
 
 Take that as an example of what not to do! Here are some practical tips that can make calls a much more enjoyable experience:
 

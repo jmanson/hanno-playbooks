@@ -1,3 +1,3 @@
-# Remote Work
+# Remote Work (Draft)
 
-We're starting to document our internal guidelines for doing remote work right.
+We're slowly drafting a guide to building and growing a great remote work culture, based on our experiences at Hanno.
