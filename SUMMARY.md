@@ -4,12 +4,68 @@
 
 Our Playbook for making sure Hanno operates smoothly.
 
-* [Marketing](hannops/marketing.md)
 * [Mission & Governance](hannops/mission-and-governance.md)
+Understanding what Hanno stands for and how we make self-management work.
+  * [Mission & Core Values](hannops/mission-and-core-values.md)
+  * [Social Criteria](hannops/social-criteria.md)
+  * [The Shipmate's Charter](hannops/shipmates-charter.md)
+  * [The Advisory Process](hannops/advisory-process.md)
+
 * [Our Services](hannops/our-services.md)
+  There are many different types of work we can tackle - here's a guide to what we're best at.
+  * [Organisational purpose](hannops/organisational-purpose.md)
+  * [Culture change](hannops/culture-change.md)
+  * [Workshops](hannops/workshops.md)
+  * [Product Strategy](hannops/product-strategy.md)
+  * [Market & User Research](hannops/market-and-user-research.md)
+  * [Rapid prototyping](hannops/rapid-prototyping.md)
+  * [Product design sprints & Rapid prototyping](hannops/product-design-sprints.md)
+  * [UX & UI design](hannops/ux-and-ui-design.md)
+  * [Product engineering](hannops/product-engineering.md)
+  * [Usability testing](hannops/usability-testing.md)
+  * [Content strategy](hannops/content-strategy.md)
+  * [Digital marketing](hannops/digital-marketing.md)
+  * [Visual identity & branding](hannops/visual-identity-and-branding.md)
+
 * [Pitching](hannops/pitching.md)
-* [Internal](hannops/internal.md)
+Some guidelines for our team on how to communicate Hanno's value.
+  * [Value Proposition](hannops/value-proposition.md)
+  * [Networking](hannops/networking.md)
+  * [Non-disclosure & Non-Compete Agreements](hannops/nda-nca.md)
+  * [Lead Qualification](hannops/lead-qualification.md)
+  * [Quotes & Estimates](hannops/quotes-and-estimates.md)
+  * [Contracts](hannops/contracts.md)
+  * [Partners and Collaborators](hannops/partners-and-collaborators.md)
+  * [Verifying new clients](hannops/verifying-new-clients.md)
+
+* [Marketing](hannops/marketing.md)
+  There are many different types of work we can tackle - here's a guide to what we're best at.
+  * [Outbound Marketing](hannops/out-bound-marketing.md)
+  * [Blogging](hannops/blogging.md)
+  * [Social Media](hannops/social-media.md)
+  * [Brand Voice & Tone](hannops/brand-voice-and-tone.md)
+
 * [Client Projects](hannops/client-projects.md)
+Client work is our bread and butter. These guidelines help those projects to run as smoothly as possible.
+  * [Paying invoices with Transferwise](hannops/paying-invoices.md)
+  * [Invoicing Clients](hannops/invoicing-clients.md)
+  * [Communicating on projects](hannops/communicating-on-projects.md)
+  * [Running Sprints](hannops/running-sprints.md)
+
+* [Internal](hannops/internal.md)
+Other teams might call this 'HR': these are the process and procedures for making sure Hanno runs smoothly.
+  * [HanoCare - Therapy](hannops/hannocare.md)
+  * [Business travel expenses](hannops/business-expenses.md)
+  * [Expense Claims](hannops/expense-claims.md)
+  * [Holidays](hannops/holidays.md)
+  * [Workdays](hannops/workdays.md)
+  * [Team Retreats](hannops/team-retreats.md)
+  * [Hiring](hannops/hiring.md)
+  * [Security](hannops/security.md)
+  * [The Weekly Update](hannops/weekly-update.md)
+  * [Salaries](hannops/salaries.md)
+  * [Diversity](hannops/diversity.md)
+
 
 ## Engineering Playbook
 
